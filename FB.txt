@@ -1,1 +1,5 @@
-Welcome to my page.
+Welcome to my page.p
+{
+  textcolor: 808080;
+  backgroudcolor: FFFFF0
+}
