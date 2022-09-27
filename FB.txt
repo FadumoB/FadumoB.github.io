@@ -1,3 +1,35 @@
-Welcome to my page.p
-<head> <link href="styles/style.css" rel="stylesheet" />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8">
+        <title>CSS Assignment</title>
+    </head>
+    <body>
 
+    <h1>Fadumo Bulhan</h1>
+    
+    <img src="https://e0.365dm.com/22/09/1600x900/skysports-floyd-mayweather_5911530.jpg?20220926144722" alt="floyd mayweather" width="203">
+    
+    <p> I am interested to learn more about coding, and become so good that I can change into a new career <p>
+    
+    <h2>Education</h2>
+    
+    <ol>
+        <li>Master's Degree</li>
+        <li>Bachelor's degree</li>
+        <li>Highschool diploma</li>
+    </ol>
+    
+    <h3>Skills</h3>
+    
+    <ul>
+        <li>Communication</li>
+        <li>Teamwork</li>
+        <li>Empathy</li>
+    </ul>
+    
+    div {
+background: black;
+color: #ffffff;
+border: 2px solid rgb(255, 0, 0);
+}
